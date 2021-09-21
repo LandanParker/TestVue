@@ -19,7 +19,6 @@ namespace TestVue.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
